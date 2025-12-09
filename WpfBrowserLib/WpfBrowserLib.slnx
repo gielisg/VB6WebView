@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WpfBrowserLib.csproj" Id="18aa40ff-7b0c-4a01-9b44-3f7b20b58a3f">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>

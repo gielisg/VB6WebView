@@ -1,0 +1,10 @@
+# Visual Studio folders
+.vs/
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+packages/
+
